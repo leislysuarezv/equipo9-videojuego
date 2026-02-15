@@ -7,10 +7,10 @@ Plato favorito: espguetis con verduras
 ### Foto personal
 <p align="center">
   <img src="maria fernanda /foto personaln.jpg" alt="Foto personal de maria fernanda " width="220">
-</p> ![image alt]( foto personal de maria fernanda  )
+
 
 ### Plato favorito
 <p align="center">
   <img src="maria fernanda y/espaguetis.jpeg" alt="espaguetis con verduras " width="220">
-</p>![image alt]( espaguetis con verduras)
+
 
