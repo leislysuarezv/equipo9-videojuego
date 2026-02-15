@@ -7,9 +7,12 @@ Plato favorito: espguetis con verduras
 ### Foto personal
 <p align="center">
   <img src="maria fernanda /foto personal.jpg" alt="Foto personal de maria fernanda " width="140*1920">
-</p>
+<p align="center">
+ <img src="https://www.facebook.com/photo.php?fbid=4375698202751806&set=pb.100009350073947.-2207520000&type=3">
+
 
 ### Plato favorito
 <p align="center">
   <img src="maria fernanda y/espaguetis.jpeg" alt="espaguetis con verduras " width="2527*1766">
-</p>
+  <p align="center">
+  <img src="https://victors.es/wp-content/uploads/2023/12/updated_Deliciosa_receta_Espaguetis_con_verduras_y_gambas_para_satisfacer_tu_paladar.jpeg">
