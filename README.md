@@ -8,7 +8,7 @@ Plato favorito: espguetis con verduras
 <p align="center">
   <img src="maria fernanda /foto personal.jpg" alt="Foto personal de maria fernanda " width="140*1920">
 <p align="center">
- <img src="https://www.facebook.com/photo.php?fbid=4375698202751806&set=pb.100009350073947.-2207520000&type=3">
+ <img src="https://www.facebook.com/photo.php?fbid=4375698202751806&set=pb.100009350073947.-2207520000&type=">
 
 
 ### Plato favorito
