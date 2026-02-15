@@ -5,10 +5,9 @@ Perfil: Soy una estudiante apasionada por la creación de historias y el desarro
 Plato favorito: espguetis con verduras  
 
 ### Foto personal
-<p align="center">
-  
+<p align="center"><img src="maria fernanda /foto personaln.jpg" alt="Foto personal de maria fernanda " width="220">
+<
 
 ### Plato favorito
-<p align="center">
-  <img src="maria fernanda y/espaguetis.jpeg" alt="espaguetis con verduras " width="220">
+<p align="center"><img src="maria fernanda y/espaguetis.jpeg" alt="espaguetis con verduras " width="220">
 
