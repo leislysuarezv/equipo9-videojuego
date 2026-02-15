@@ -6,10 +6,10 @@ Plato favorito: espguetis con verduras
 
 ### Foto personal
 <p align="center">
-  <img src="maria fernanda /foto personal.jpg" alt="Foto personal de Leisly" width="220">
+  <img src="maria fernanda /foto personal.jpg" alt="Foto personal de maria fernanda " width="140*1920">
 </p>
 
 ### Plato favorito
 <p align="center">
-  <img src="maria fernanda y/espaguetis.jpeg" alt="espaguetis con verduras " width="220">
+  <img src="maria fernanda y/espaguetis.jpeg" alt="espaguetis con verduras " width="2527*1766">
 </p>
