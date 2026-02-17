@@ -45,5 +45,5 @@
 ### Plato favorito
 <p align="center">
   <p align="center">
-  <img src="https://victors.es/wp-content/uploads/2023/12/updated_Deliciosa_receta_Espaguetis_con_verduras_y_gambas_para_satisfacer_tu_paladar.jpeg"> width="220">
+  <img src="https://victors.es/wp-content/uploads/2023/12/updated_Deliciosa_receta_Espaguetis_con_verduras_y_gambas_para_satisfacer_tu_paladar.jpeg"> width="220>
 </p>
