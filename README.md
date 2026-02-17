@@ -1,3 +1,14 @@
+maria
+## Maria Valentina Cespedes  
+*Rol en la industria:* Diseñador de personajes  
+*Ubicación:* Espinal, Colombia  
+*Perfil:* Soy una estudiante de multimedia con interés en el diseño de personajes. Me estoy formando en ilustracion digital, diseño visual y narrativa.  
+*Plato favorito:* Pastas con carne y queso 
+
+### Foto personal
+<p align="center">
+  <img src="maria/fotopersonal.jpeg" alt="Foto personal de Maria" width="220">
+
 ## Debei Gicelle Rodriguez 
 *Rol en la industria:* Diseñadora multimedia 
 *Ubicación:* Ibagué, Colombia  
@@ -16,10 +27,15 @@ mafe
   <img src="https://victors.es/wp-content/uploads/2023/12/updated_Deliciosa_receta_Espaguetis_con_verduras_y_gambas_para_satisfacer_tu_paladar.jpeg">
 
   <img src="debei/fotopersonal.jpeg" alt="Foto personal de Debei" width="220">
+main
 </p>
 
 ### Plato favorito
 <p align="center">
+ maria
+  <img src="maria/comida.jpeg" alt="Pastas con carne y queso" width="220">
+</p>
+
   <img src="debei/comida.jpg" alt="Pizza hawaiana" width="220">
 </p>
 main
