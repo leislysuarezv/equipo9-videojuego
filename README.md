@@ -36,11 +36,12 @@
 *Plato favorito:* Pizza hawaiana  
 
 ### Foto personal
+ <p align="center">
  <img src="debei/fotopersonal.jpeg" alt="Foto personal de Debei" width="220">
-main
 </p>
 
   ### Plato favorito
+   <p align="center">
  <img src="debei/comida.jpg" alt="Pizza hawaiana" width="220">
 </p>
 
